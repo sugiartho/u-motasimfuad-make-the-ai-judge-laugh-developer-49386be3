@@ -1,0 +1,1 @@
+It's not a bug - the cron job I added 'just for testing' has been running in production since March.
